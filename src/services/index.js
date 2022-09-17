@@ -1,0 +1,1 @@
+export {getAllDogsList} from "./getDogServices"
