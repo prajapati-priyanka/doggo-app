@@ -1,0 +1,10 @@
+.mainContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 20rem);
+    grid-gap: 2rem;
+     padding: 4rem;
+
+     width: 80vw;
+     margin: 0 auto;
+    background-color: lavenderblush;
+}
