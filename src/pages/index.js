@@ -1,5 +1,6 @@
-export {DogListing} from "./DogListingPage/DogListingPage";
-export {DogDetails} from "./DogDetailsPage/DogDetailsPage";
+export {BreedListing} from "./BreedListingPage/BreedListingPage";
+export {BreedDetails} from "./BreedDetailsPage/BreedDetailsPage";
+
 
 
 
