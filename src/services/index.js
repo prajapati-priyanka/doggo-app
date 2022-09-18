@@ -1,1 +1,2 @@
-export {getAllDogsList} from "./getDogServices"
+export {getAllBreedsList} from "./getBreedServices";
+
